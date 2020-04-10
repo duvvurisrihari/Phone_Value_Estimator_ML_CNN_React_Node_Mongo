@@ -47,7 +47,7 @@ prices, final price of the mobile can be predicted.
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src="">
+<img width="900" alt="architecture" src="272 Architechture 2.jpeg">
 
 ## Hill Statement
  **Who** : A Mobile phone user 
