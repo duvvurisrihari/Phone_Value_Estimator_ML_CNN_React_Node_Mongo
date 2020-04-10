@@ -47,7 +47,7 @@ prices, final price of the mobile can be predicted.
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src="https://github.com/SJSUFall2019-CMPE272/brokenPhone/blob/master/272%20Architechture%202.jpeg">
+<img width="900" alt="architecture" src="">
 
 ## Hill Statement
  **Who** : A Mobile phone user 
@@ -58,7 +58,7 @@ prices, final price of the mobile can be predicted.
  
 ## Persona
 
-<img height="900" width="800" alt="architecture" src="https://github.com/SJSUFall2019-CMPE272/brokenPhone/blob/master/Persona%40Sarah%20Brooks.png">
+<img height="900" width="800" alt="architecture" src="Persona@Sarah Brooks.png">
 
 
 ## Contributors
